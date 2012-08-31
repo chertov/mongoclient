@@ -1,0 +1,14 @@
+*
+!*/
+!*.cpp
+!*.cc
+!*.c
+!*.hpp
+!*.h
+
+!*.lib
+
+!*.sln
+!*.vcproj
+
+!.gitignore
